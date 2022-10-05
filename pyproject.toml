@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "python-template"
+name = "template-python"
 version = "0.1.0"
-description = "A minimal template for Python projects using Poetry 🐍."
-authors = ["Violet <vxvvn@proton.me>"]
+description = "A minimal template for Python projects 🐍."
+authors = ["Violet <vxvt@proton.me>"]
 license = "MIT"
 readme = "README.md"
 packages = [
-  { include = "python_template", from = "src" }
+  { include = "template_python", from = "src" }
 ]
 
 [tool.poetry.dependencies]
