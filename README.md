@@ -1,3 +1,3 @@
 # template-python
 
-A minimal template for Python projects using :snake:.
+A minimal template for Python projects :snake:.
